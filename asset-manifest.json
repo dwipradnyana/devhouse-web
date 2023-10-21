@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/devhouse-web/static/css/main.88a07da0.css",
+    "main.js": "/devhouse-web/static/js/main.61e2cfd5.js",
+    "index.html": "/devhouse-web/index.html",
+    "main.88a07da0.css.map": "/devhouse-web/static/css/main.88a07da0.css.map",
+    "main.61e2cfd5.js.map": "/devhouse-web/static/js/main.61e2cfd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88a07da0.css",
+    "static/js/main.61e2cfd5.js"
+  ]
+}
